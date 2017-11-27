@@ -20,7 +20,7 @@ Call body method from PdfReports to WickedCore and global variable.
 Add the gem to yours Gem file pointing to this repo:
 
 ```ruby
-gem 'reports', :git =>'git@github.com:daveih/pdf_reports.git'
+gem 'reports', :git =>'git@github.com:zamanjum0/pdf_reports.git'
 ```
 
 Then run:
